@@ -1,0 +1,11 @@
+--- qzsir-1.0.0-beta/texts/rules_hu.txt~	2010-01-11 20:07:43.000000000 +0100
++++ qzsir-1.0.0-beta/texts/rules_hu.txt	2010-06-04 19:07:46.453100767 +0200
+@@ -5,7 +5,7 @@
+ lappal lehet ütni. Kivételes lap a hetes, azzal bármit lehet ütni. 
+ A kihívott lapot többször is lehet ütni. A kört az a játékos nyeri, 
+ amelyik legutoljára rakott rá azonos vagy hetes kártyát. Új kártyát mindig 
+-a kör végén lehet húzni. Az a játékos rak elősször lapot, amelyik nyerte 
++a kör végén lehet húzni. Az a játékos rak először lapot, amelyik nyerte 
+ az előző kört. A játék akkor ér véget, mikor elfogyott az összes lap. 
+ Pontot érő lapnak a tizes és az ász számít. Minden ilyen kártya 10-10 
+ pontot ér, tehát összesen 80 pont van. Az a játékos nyeri meg a fordulót, 
