@@ -1,13 +1,13 @@
-%define	rel	beta
+%define	rel	0.1
 Summary:	QZsir is a hungarian card game
 Summary(hu.UTF-8):	QZsir egy magyar kártyajáték (zsírozás)
 Summary(pl.UTF-8):	Węgierska gra w karty
 Name:		qzsir
 Version:	1.0.0
-Release:	%{rel}.0.1
+Release:	beta-%{rel}
 License:	GPL v2
 Group:		X11/Applications/Games
-Source0:	http://qzsir.googlecode.com/files/%{name}-%{version}-%{rel}.tar.gz
+Source0:	http://qzsir.googlecode.com/files/%{name}-%{version}-beta.tar.gz
 # Source0-md5:	85f82c9cc5711ada12e6697daae149a9
 Patch0:		rules_hu.patch
 URL:		http://code.google.com/p/qzsir/
